@@ -1,0 +1,12 @@
+{
+  "name": "cart-storage",
+  "version": "1.0.0",
+  "description": "Lightweight cart storage utility for browser localStorage",
+  "main": "src/CartStorage.js",
+  "type": "module",
+  "keywords": ["cart", "storage", "localStorage", "ecommerce"],
+  "author": "Nick Khmeliuk",
+  "license": "MIT"
+}
+
+ 
